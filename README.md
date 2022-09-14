@@ -1,8 +1,7 @@
 ## FinAPI - Financeira
 
-### Requisitos
-
 ---
+### Requisitos
 
 - [X] Deve ser possível criar umma conta
 - [X] Deve ser possível buscar o extrato bancário do cliente
@@ -13,10 +12,8 @@
 - [X] Deve ser possível obter dados da conta do cliente
 - [X] Deve ser possível deletar uma conta
 
-
-### Regras de Negócios
-
 ---
+### Regras de Negócios
 
 - [X] Não deve ser possível cadastrar uma conta com CPF já existente
 - [X] Não deve ser possível fazer depósito em uma conta não existente
